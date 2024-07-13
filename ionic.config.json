@@ -1,7 +1,7 @@
 {
-  "name": "my-ionic-app2",
+  "name": "dementia-care-app-ionic",
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular-standalone"
+  "type": "angular"
 }

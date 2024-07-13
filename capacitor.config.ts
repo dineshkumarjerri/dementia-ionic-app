@@ -2,7 +2,7 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'my-ionic-app2',
+  appName: 'dementia-care-app-ionic',
   webDir: 'www'
 };
 
